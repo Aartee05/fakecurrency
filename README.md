@@ -43,6 +43,8 @@ This project aims to distinguish between **real** and **scanned (fake)** banknot
 - Smoothed vs. thresholded vertical projection
 - Visual confirmation of black security strip
 
+Output Sample : https://github.com/Aartee05/fakecurrency/blob/main/fakecurrency%20op.docx
+
 ---
 
 ## 🛠️ Requirements
