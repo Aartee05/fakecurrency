@@ -58,13 +58,12 @@ Output Sample : https://github.com/Aartee05/fakecurrency/blob/main/fakecurrency%
 
 1. Clone or download this repository:
     ```bash
-    git clone https://github.com/your-username/banknote-authentication.git
-    cd banknote-authentication
+    https://github.com/Aartee05/fakecurrency/blob/main/fakecurrecy.m
     ```
 
 2. Open MATLAB and run:
     ```matlab
-    banknote_analysis.m
+    fakecurrency.m
     ```
 
 3. Make sure to replace the file paths (`500_image.jpg`, `fake_image.jpg`) with your actual real/fake note images if necessary.
